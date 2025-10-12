@@ -1,8 +1,8 @@
-PWD /home/maignal/Desktop/Job application/my-resume
+PWD /home/romeo/Desktop/Job application/my-resume
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /home/maignal/Desktop/Job application/my-resume/cv_romeo_maignal.tex
+INPUT /home/romeo/Desktop/Job application/my-resume/cv_romeo_maignal.tex
 OUTPUT cv_romeo_maignal.log
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls

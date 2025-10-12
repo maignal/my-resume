@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.9)  10 SEP 2025 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.9.17)  12 OCT 2025 16:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/home/maignal/Desktop/Job application/my-resume/cv_romeo_maignal.tex"
-(/home/maignal/Desktop/Job application/my-resume/cv_romeo_maignal.tex
+**"/home/romeo/Desktop/Job application/my-resume/cv_romeo_maignal.tex"
+(/home/romeo/Desktop/Job application/my-resume/cv_romeo_maignal.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -722,14 +722,14 @@ L3 programming layer <2025-08-13>
  ) 
 Here is how much of TeX's memory you used:
  15988 strings out of 467800
- 274153 string characters out of 5431889
+ 274147 string characters out of 5431888
  703335 words of memory out of 5000000
  44412 multiletter control sequences out of 15000+600000
  689812 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,484b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,482b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on cv_romeo_maignal.pdf (1 page, 163865 bytes).
+Output written on cv_romeo_maignal.pdf (1 page, 163724 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream
